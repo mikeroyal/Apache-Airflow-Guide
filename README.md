@@ -16,9 +16,9 @@
 
 # Table of Contents
 
-1. [Apache Airflow Learning Resources](https://github.com/mikeroyal/Apache-Arrow-Guide#Apache-Airflow-learning-resources)
+1. [Apache Airflow Learning Resources](https://github.com/mikeroyal/Apache-Airflow-Guide#Apache-Airflow-learning-resources)
 
-2. [Apache Airflow Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Apache-Airflow-Guide#Apache-Arrow-tools-libraries-and-frameworks)
+2. [Apache Airflow Tools, Libraries, and Frameworks](https://github.com/mikeroyal/Apache-Airflow-Guide#Apache-Airflow-tools-libraries-and-frameworks)
 
 3. [Machine Learning](https://github.com/mikeroyal/Apache-Airflow-Guide#machine-learning)
 
